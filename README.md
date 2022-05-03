@@ -1,8 +1,8 @@
 ### Hi there 👋 I´m Valentin Kebat 
 
-## 🔭 I’m currently working on Data Analisys and development scripts on python for automate tasks.
-## 🌱 I’m currently learning Back-End Development with Express.js
-## ⚡ Fun fact: I´m Trombonist :trumpet: :trumpet:
+# 🔭 I’m currently working on Data Analisys and development scripts on python for automate tasks.
+# 🌱 I’m currently learning Back-End Development with Express.js
+# ⚡ Fun fact: I´m Trombonist :trumpet: :trumpet:
 <!--
 **Valenkebat/valenkebat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
