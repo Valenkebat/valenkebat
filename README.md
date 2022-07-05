@@ -1,6 +1,6 @@
 ### Hi there 👋 I´m Valentin Kebat 
 
-- 🔭 I’m currently working on Data Analisys and development scripts on python for automate tasks.
+- 🔭 I’m currently working on Data Analisys and development scripts on python for automate tasks. ETLS. 
 - 🌱 I’m currently learning Back-End Development with Express.js
 - ⚡ Fun fact: I’m Trombonist :trumpet: :trumpet:
 <!--
