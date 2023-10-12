@@ -1,7 +1,7 @@
 ### Hi there 👋 I´m Valentin Kebat 
 
 - 🔭 I’m currently working on Data Analisys and development with python. 
-- 🌱 I’m currently learning Back-End Development with Express.js, Node.js. 
+- 🌱 I’m Back-End Developer. My stack is Django, Node.js.  
 - ⚡ Fun fact: I’m Trombonist :trumpet: :trumpet:
 <!--
 **Valenkebat/valenkebat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
